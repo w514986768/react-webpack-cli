@@ -12,3 +12,5 @@ react基于webpack和babel以及es6的项目搭建
 ###5. open http://localhost:3000
 
 ###6. build:  npm run build
+
+如果用git clone下载的，需要修改远程仓库的代码如下git remote set-url origin [url]
